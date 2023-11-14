@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NidalGhonaim
 - 👀 I’m interested in web apps
-- 🌱 I’m currently learning ruby/rails
-- 💞️ I’m looking to collaborate on web stuff
-- 📫 How to reach me nidalghonaim@gmail.com or t:@NidalGhonaim
+- 🌱 I’m currently learning PostgreSQL, NextJs
+- 💞️ I’m looking to collaborate on awesome stuff that help people
+- 📫 How to reach me nidalghonaim@gmail.com
